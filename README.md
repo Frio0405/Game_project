@@ -14,4 +14,4 @@ It is a simple 2D horror game(at least it is meant to be a horror game), where p
 I used Pycharm to write code for my game. I also installed pygame package to realise the game.
 
 # Screenshot of the game
-![Screenshot](screen-shot-2025-06-25%20120552.png)
+
