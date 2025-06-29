@@ -24,5 +24,5 @@ The game is based on turns(if you do something, then the monster moves).
 Your abilities:
 1. By clicking to the nearby block with your mouse, you can move to that block. Each such a movement makes sound that attracts monster for 2 turns.
 2. By pressing R, you can use a radar. Radar checks nearby blocks(3 x 3) and displays the exit or the monster for one turn in the grid if they are in the radar zone. You can use 20 radars in total, but only once in 2 turns.
-3. By pressing v, you can play audio in any block(just hover over any block). The blocks will turn green and attract the monster for 4 turns. So, if the audio is active and you move, the monster will not follow you, but the block with the audio.
+3. By pressing v, you can play audio in any block(just hover over any block). The blocks will turn green and attract the monster for 4 turns. So, if the audio is active and you move, the monster will not follow you, but the block with the audio. You can use 10 audio in total, but once in 10 turns
 4. By pressing y, you do nothing. This ability is needed when the monster is just one block away from you. If the monster right next to you and you do anything, but pressing y, you will die(the monster can hear you doing something in the close range). But if you press y, then the monster will go away and you will be safe.
